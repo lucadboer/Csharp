@@ -1,0 +1,13 @@
+using System;
+using System.Globalization;
+
+namespace tarefas
+{
+    class ex
+    {
+        static void Main(string[] args)
+        {
+            CultureInfo CI = CultureInfo.InvariantCulture;     
+        }
+    }
+}
